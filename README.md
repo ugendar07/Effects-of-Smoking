@@ -31,7 +31,7 @@ This repository contains the code and data used for analyzing gene expression da
   
 - Evaluate the trained model
 
-
+  
 ## Data Set
 The input data consists of gene expression data from both male and female individuals, categorized by smoking status. Additionally, gene lists related to Xenobiotic Metabolism, Free Radical Response, DNA Repair, and Natural Killer Cell Cytotoxicity are provided for comparison.
 - [Xenobiotic Metabolism](https://drive.google.com/open?id=1hRAKYSvN6mNa4DWZxmLNP5PnjqFuGZtJ)
